@@ -10,8 +10,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/P0061_Layouts" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/layouts" />
             <option value="$PROJECT_DIR$/p0041basicviev" />
             <option value="$PROJECT_DIR$/p0051layoutfiles" />
           </set>

@@ -16,4 +16,4 @@ rootProject.name = "AndroidLessons_Savvina"
 include ':app'
 include ':p0041basicviev'
 include ':p0051layoutfiles'
-include ':layouts'
+include ':P0061_Layouts'
